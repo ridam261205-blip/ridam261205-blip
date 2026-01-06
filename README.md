@@ -11,6 +11,7 @@
 - Pandas, NumPy, Matplotlib
 - Scikit-learn
 - SQL
+- Power BI
 - Pytorch (Beginner)
 
 📫 Connect with me:
